@@ -1,0 +1,25 @@
+p{
+    background-color:rgb(0, 102, 255)
+}
+
+body{
+    background-color: rgb(0, 255, 213);
+    text-align: center;
+}
+
+a:link{
+    font-size: 20px;
+    background-color: blue;
+    padding: 10px;
+    color: cornsilk;
+    margin-bottom: 100px;
+
+}
+a:visited{
+    color: cornsilk;
+}
+a:hover{
+    font-size: 20px;
+    padding: 12px;
+    color: black;
+}
